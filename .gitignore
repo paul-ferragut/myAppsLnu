@@ -1,0 +1,16 @@
+
+*.user
+*.dll
+*.pdb
+*.lib
+*.exe
+*.ilk
+*.obj
+*.tlog
+*.exp
+*.log
+*.ipch
+*.db
+surveyLnuSolution/.vs/surveyLnuSolution/v15/.suo
+*.rc
+*.res
